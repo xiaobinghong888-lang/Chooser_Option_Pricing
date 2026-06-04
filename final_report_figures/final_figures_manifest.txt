@@ -1,0 +1,112 @@
+Final Report Figures Manifest
+Generated: 2026-06-03T14:35:32
+Project root: /Users/apple/Desktop/chooser_option_project
+Final figure folder: /Users/apple/Desktop/chooser_option_project/outputs/final_report_figures
+
+Project inventory scanned:
+- csv: 67 files
+- png: 18 files
+- notebook: 2 files
+- script: 10 files
+
+Plotting clue files scanned/used:
+- Untitled.ipynb
+- program_4.6.ipynb
+- scripts/audit_and_regenerate_final_figures.py
+- scripts/make_week5_csv_appendix.py
+- scripts/make_week6_experimental_results_report.py
+- scripts/make_week6_figures_and_csv_report.py
+- scripts/make_week7_experimental_results_report.py
+- scripts/make_week7_outputs_appendix.py
+- scripts/make_week7_supplementary_experimental_report.py
+- scripts/make_week7_weekly_report.py
+
+Figure status:
+- baseline_vs_ml_chooser_price_trend.png
+  status: regenerated
+  output: outputs/final_report_figures/baseline_vs_ml_chooser_price_trend.png
+  source files used:
+    - data/processed/final_ml_enhanced_bsm_prices.csv
+  note: Regenerated from final ML-enhanced chooser price history.
+- benchmark_error_summary_comparison.png
+  status: regenerated
+  output: outputs/final_report_figures/benchmark_error_summary_comparison.png
+  source files used:
+    - outputs/final_benchmark_error_summary.csv
+  note: Regenerated from benchmark summary CSV.
+- week7_mean_price_extreme_scenarios.png
+  status: found
+  output: outputs/final_report_figures/week7_mean_price_extreme_scenarios.png
+  source files used:
+    - outputs/week7_mean_price_extreme_scenarios.png
+  note: Copied existing project figure.
+- week7_mean_change_vs_base.png
+  status: found
+  output: outputs/final_report_figures/week7_mean_change_vs_base.png
+  source files used:
+    - outputs/week7_mean_change_vs_base.png
+  note: Copied existing project figure.
+- week7_vol_shock_normal_vs_stress.png
+  status: found
+  output: outputs/final_report_figures/week7_vol_shock_normal_vs_stress.png
+  source files used:
+    - outputs/week7_vol_shock_normal_vs_stress.png
+  note: Copied existing project figure.
+- week7_combined_shock_normal_vs_stress.png
+  status: found
+  output: outputs/final_report_figures/week7_combined_shock_normal_vs_stress.png
+  source files used:
+    - outputs/week7_combined_shock_normal_vs_stress.png
+  note: Copied existing project figure.
+- week7_improvement_distribution.png
+  status: found
+  output: outputs/final_report_figures/week7_improvement_distribution.png
+  source files used:
+    - outputs/week7_improvement_distribution.png
+  note: Copied existing project figure.
+- week7_improvement_by_regime.png
+  status: found
+  output: outputs/final_report_figures/week7_improvement_by_regime.png
+  source files used:
+    - outputs/week7_improvement_by_regime.png
+  note: Copied existing project figure.
+- week7_sigma_gap_vs_price_gap.png
+  status: found
+  output: outputs/final_report_figures/week7_sigma_gap_vs_price_gap.png
+  source files used:
+    - outputs/week7_sigma_gap_vs_price_gap.png
+  note: Copied existing project figure.
+- week7_tail_exceedance.png
+  status: found
+  output: outputs/final_report_figures/week7_tail_exceedance.png
+  source files used:
+    - outputs/week7_tail_exceedance.png
+  note: Copied existing project figure.
+- shap_bar_gbr.png
+  status: found
+  output: outputs/final_report_figures/shap_bar_gbr.png
+  source files used:
+    - outputs/shap_bar_gbr.png
+  note: Copied existing SHAP figure; exact regeneration requires notebook model state.
+- shap_beeswarm_gbr.png
+  status: found
+  output: outputs/final_report_figures/shap_beeswarm_gbr.png
+  source files used:
+    - outputs/shap_beeswarm_gbr.png
+  note: Copied existing SHAP figure; exact regeneration requires notebook model state.
+- week8_streamlit_dashboard_screenshot.png
+  status: found
+  output: outputs/final_report_figures/week8_streamlit_dashboard_screenshot.png
+  source files used:
+    - outputs/week7_streamlit_prototype.png
+  note: Copied local Streamlit/dashboard screenshot source: outputs/week7_streamlit_prototype.png.
+- final_figure_status_table.png
+  status: regenerated
+  output: outputs/final_report_figures/final_figure_status_table.png
+  source files used: none
+  note: Generated from audit results.
+
+Summary:
+- figures found/copied: 11
+- figures regenerated: 3
+- figures still missing: 0
